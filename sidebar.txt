@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyc:home|Door43 (kyc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyc|d43-kyc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyc/archive/master.zip|d43-kyc.zip]]
+
+**Recent Changes**
+{{changes>ns = kyc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyc|Ethnologue data]]
+
